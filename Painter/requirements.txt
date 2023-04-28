@@ -3,4 +3,4 @@ git+https://github.com/cocodataset/panopticapi.git
 h5py  # for depth
 xtcocotools # for pose
 natsort  # for denoising
-wandb
+wandb  # optional
